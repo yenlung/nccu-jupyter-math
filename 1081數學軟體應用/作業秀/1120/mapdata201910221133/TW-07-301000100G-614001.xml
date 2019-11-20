@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--詮釋資料資訊-->
+<gmd:MD_Metadata xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gml="http://www.opengis.net/gml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.isotc211.org/2005/gmd http://www.isotc211.org/2005/gmd/metadataEntity.xsd">
+	<!--@twsmp:{"description":"","excludedChildren":[],"hint":"","mustHandleChildren":[],"questionInfo":null,"template":-1}-->
+	<gmd:fileIdentifier>
+		<gco:CharacterString>TW-07-301000100G-614001</gco:CharacterString>
+	</gmd:fileIdentifier>
+	<gmd:language>
+		<gco:CharacterString>chi</gco:CharacterString>
+	</gmd:language>
+	<gmd:characterSet>
+		<gmd:MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_CharacterSetCode" codeListValue="big5" codeSpace="ISOTC211/19115">big5</gmd:MD_CharacterSetCode>
+	</gmd:characterSet>
+	<gmd:parentIdentifier>
+		<gco:CharacterString/>
+	</gmd:parentIdentifier>
+	<gmd:contact xlink:type="simple">
+		<gmd:CI_ResponsibleParty>
+			<gmd:organisationName>
+				<gco:CharacterString>內政部地政司</gco:CharacterString>
+			</gmd:organisationName>
+			<gmd:contactInfo xlink:type="simple">
+				<gmd:CI_Contact>
+					<gmd:phone xlink:type="simple">
+						<gmd:CI_Telephone>
+							<gmd:voice>
+								<gco:CharacterString>+886-2-23565279</gco:CharacterString>
+							</gmd:voice>
+							<gmd:facsimile>
+								<gco:CharacterString>+886-2-23976875</gco:CharacterString>
+							</gmd:facsimile>
+						</gmd:CI_Telephone>
+					</gmd:phone>
+					<gmd:address xlink:type="simple">
+						<gmd:CI_Address>
+							<gmd:deliveryPoint>
+								<gco:CharacterString>徐州路５號七樓</gco:CharacterString>
+							</gmd:deliveryPoint>
+							<gmd:city>
+								<gco:CharacterString>臺北市中正區</gco:CharacterString>
+							</gmd:city>
+							<gmd:postalCode>
+								<gco:CharacterString>10055</gco:CharacterString>
+							</gmd:postalCode>
+							<gmd:country>
+								<gco:CharacterString>中華民國</gco:CharacterString>
+							</gmd:country>
+							<gmd:electronicMailAddress>
+								<gco:CharacterString>moi1755@moi.gov.tw</gco:CharacterString>
+							</gmd:electronicMailAddress>
+						</gmd:CI_Address>
+					</gmd:address>
+				</gmd:CI_Contact>
+			</gmd:contactInfo>
+			<gmd:role>
+				<gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#CI_RoleCode" codeListValue="custodian" codeSpace="ISOTC211/19115">custodian</gmd:CI_RoleCode>
+			</gmd:role>
+		</gmd:CI_ResponsibleParty>
+	</gmd:contact>
+	<gmd:contact xlink:type="simple">
+		<gmd:CI_ResponsibleParty>
+			<gmd:organisationName>
+				<gco:CharacterString>內政部國土測繪中心測繪資訊課</gco:CharacterString>
+			</gmd:organisationName>
+			<gmd:contactInfo xlink:type="simple">
+				<gmd:CI_Contact>
+					<gmd:phone xlink:type="simple">
+						<gmd:CI_Telephone>
+							<gmd:voice>
+								<gco:CharacterString>+886-4-22522966</gco:CharacterString>
+							</gmd:voice>
+							<gmd:facsimile>
+								<gco:CharacterString>+886-4-22522902</gco:CharacterString>
+							</gmd:facsimile>
+						</gmd:CI_Telephone>
+					</gmd:phone>
+					<gmd:address xlink:type="simple">
+						<gmd:CI_Address>
+							<gmd:deliveryPoint>
+								<gco:CharacterString>黎明路二段４９７號四樓</gco:CharacterString>
+							</gmd:deliveryPoint>
+							<gmd:city>
+								<gco:CharacterString>臺中市南屯區</gco:CharacterString>
+							</gmd:city>
+							<gmd:postalCode>
+								<gco:CharacterString>40873</gco:CharacterString>
+							</gmd:postalCode>
+							<gmd:country>
+								<gco:CharacterString>中華民國</gco:CharacterString>
+							</gmd:country>
+							<gmd:electronicMailAddress>
+								<gco:CharacterString>mb@mail.nlsc.gov.tw</gco:CharacterString>
+							</gmd:electronicMailAddress>
+						</gmd:CI_Address>
+					</gmd:address>
+				</gmd:CI_Contact>
+			</gmd:contactInfo>
+			<gmd:role>
+				<gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#CI_RoleCode" codeListValue="distributor" codeSpace="ISOTC211/19115">distributor</gmd:CI_RoleCode>
+			</gmd:role>
+		</gmd:CI_ResponsibleParty>
+	</gmd:contact>
+	<gmd:contact xlink:type="simple">
+		<gmd:CI_ResponsibleParty>
+			<gmd:organisationName>
+				<gco:CharacterString>瑞竣科技股份有限公司</gco:CharacterString>
+			</gmd:organisationName>
+			<gmd:contactInfo xlink:type="simple">
+				<gmd:CI_Contact>
+					<gmd:phone xlink:type="simple">
+						<gmd:CI_Telephone>
+							<gmd:voice>
+								<gco:CharacterString>+886-2-82280790#512</gco:CharacterString>
+							</gmd:voice>
+							<gmd:facsimile>
+								<gco:CharacterString>+886-2-82280779</gco:CharacterString>
+							</gmd:facsimile>
+						</gmd:CI_Telephone>
+					</gmd:phone>
+					<gmd:address xlink:type="simple">
+						<gmd:CI_Address>
+							<gmd:deliveryPoint>
+								<gco:CharacterString>建一路１８６號十一樓之４</gco:CharacterString>
+							</gmd:deliveryPoint>
+							<gmd:city>
+								<gco:CharacterString>新北市中和區</gco:CharacterString>
+							</gmd:city>
+							<gmd:postalCode>
+								<gco:CharacterString>23553</gco:CharacterString>
+							</gmd:postalCode>
+							<gmd:country>
+								<gco:CharacterString>中華民國</gco:CharacterString>
+							</gmd:country>
+							<gmd:electronicMailAddress>
+								<gco:CharacterString>rogerchen@richitech.com.tw</gco:CharacterString>
+							</gmd:electronicMailAddress>
+						</gmd:CI_Address>
+					</gmd:address>
+				</gmd:CI_Contact>
+			</gmd:contactInfo>
+			<gmd:role>
+				<gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</gmd:CI_RoleCode>
+			</gmd:role>
+		</gmd:CI_ResponsibleParty>
+	</gmd:contact>
+	<gmd:dateStamp>
+		<gco:Date>2019-10-07</gco:Date>
+	</gmd:dateStamp>
+	<gmd:metadataStandardName>
+		<gco:CharacterString>TWSMP</gco:CharacterString>
+	</gmd:metadataStandardName>
+	<gmd:metadataStandardVersion>
+		<gco:CharacterString>2.0</gco:CharacterString>
+	</gmd:metadataStandardVersion>
+	<gmd:spatialRepresentationInfo xlink:type="simple">
+		<gmd:MD_VectorSpatialRepresentation>
+			<gmd:geometricObjects xlink:type="simple">
+				<gmd:MD_GeometricObjects>
+					<gmd:geometricObjectType>
+						<gmd:MD_GeometricObjectTypeCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_GeometricObjectTypeCode" codeListValue="surface" codeSpace="ISOTC211/19115">surface</gmd:MD_GeometricObjectTypeCode>
+					</gmd:geometricObjectType>
+				</gmd:MD_GeometricObjects>
+			</gmd:geometricObjects>
+		</gmd:MD_VectorSpatialRepresentation>
+	</gmd:spatialRepresentationInfo>
+	<gmd:referenceSystemInfo xlink:type="simple">
+		<gmd:MD_ReferenceSystem>
+			<gmd:referenceSystemIdentifier xlink:type="simple">
+				<gmd:RS_Identifier>
+					<gmd:code>
+						<gco:CharacterString>TWD97(EPSG:3824)</gco:CharacterString>
+					</gmd:code>
+				</gmd:RS_Identifier>
+			</gmd:referenceSystemIdentifier>
+		</gmd:MD_ReferenceSystem>
+	</gmd:referenceSystemInfo>
+	<gmd:identificationInfo xlink:type="simple">
+		<gmd:MD_DataIdentification>
+			<gmd:citation xlink:type="simple">
+				<gmd:CI_Citation>
+					<gmd:title>
+						<gco:CharacterString>鄉鎮市區界線(EPSG:3824)</gco:CharacterString>
+					</gmd:title>
+					<gmd:date xlink:type="simple">
+						<gmd:CI_Date>
+							<gmd:date>
+								<gco:Date>2017-12-25</gco:Date>
+							</gmd:date>
+							<gmd:dateType>
+								<gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#CI_DateTypeCode" codeListValue="creation" codeSpace="ISOTC211/19115">creation</gmd:CI_DateTypeCode>
+							</gmd:dateType>
+						</gmd:CI_Date>
+					</gmd:date>
+					<gmd:date xlink:type="simple">
+						<gmd:CI_Date>
+							<gmd:date>
+								<gco:Date>2019-10-07</gco:Date>
+							</gmd:date>
+							<gmd:dateType>
+								<gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#CI_DateTypeCode" codeListValue="revision" codeSpace="ISOTC211/19115">revision</gmd:CI_DateTypeCode>
+							</gmd:dateType>
+						</gmd:CI_Date>
+					</gmd:date>
+					<gmd:date xlink:type="simple">
+						<gmd:CI_Date>
+							<gmd:date>
+								<gco:Date>1900-01-01</gco:Date>
+							</gmd:date>
+							<gmd:dateType>
+								<gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</gmd:CI_DateTypeCode>
+							</gmd:dateType>
+						</gmd:CI_Date>
+					</gmd:date>
+				</gmd:CI_Citation>
+			</gmd:citation>
+			<gmd:abstract>
+				<gco:CharacterString>我國各鄉(鎮、市、區)行政區域界線圖資。</gco:CharacterString>
+			</gmd:abstract>
+			<gmd:purpose>
+				<gco:CharacterString>描述各行政區域之空間範圍，提供地理資訊系統展示之參考底圖。</gco:CharacterString>
+			</gmd:purpose>
+			<gmd:status>
+				<gmd:MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_ProgressCode" codeListValue="onGoing" codeSpace="ISOTC211/19115">onGoing</gmd:MD_ProgressCode>
+			</gmd:status>
+			<gmd:pointOfContact xlink:type="simple">
+				<gmd:CI_ResponsibleParty>
+					<gmd:organisationName>
+						<gco:CharacterString>內政部地政司</gco:CharacterString>
+					</gmd:organisationName>
+					<gmd:contactInfo xlink:type="simple">
+						<gmd:CI_Contact>
+							<gmd:phone xlink:type="simple">
+								<gmd:CI_Telephone>
+									<gmd:voice>
+										<gco:CharacterString>+886-2-23565279</gco:CharacterString>
+									</gmd:voice>
+									<gmd:facsimile>
+										<gco:CharacterString>+886-2-23976875</gco:CharacterString>
+									</gmd:facsimile>
+								</gmd:CI_Telephone>
+							</gmd:phone>
+							<gmd:address xlink:type="simple">
+								<gmd:CI_Address>
+									<gmd:deliveryPoint>
+										<gco:CharacterString>徐州路５號七樓</gco:CharacterString>
+									</gmd:deliveryPoint>
+									<gmd:city>
+										<gco:CharacterString>臺北市中正區</gco:CharacterString>
+									</gmd:city>
+									<gmd:postalCode>
+										<gco:CharacterString>10055</gco:CharacterString>
+									</gmd:postalCode>
+									<gmd:country>
+										<gco:CharacterString>中華民國</gco:CharacterString>
+									</gmd:country>
+									<gmd:electronicMailAddress>
+										<gco:CharacterString>moi1755@moi.gov.tw</gco:CharacterString>
+									</gmd:electronicMailAddress>
+								</gmd:CI_Address>
+							</gmd:address>
+						</gmd:CI_Contact>
+					</gmd:contactInfo>
+					<gmd:role>
+						<gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#CI_RoleCode" codeListValue="custodian" codeSpace="ISOTC211/19115">custodian</gmd:CI_RoleCode>
+					</gmd:role>
+				</gmd:CI_ResponsibleParty>
+			</gmd:pointOfContact>
+			<gmd:pointOfContact xlink:type="simple">
+				<gmd:CI_ResponsibleParty>
+					<gmd:organisationName>
+						<gco:CharacterString>內政部國土測繪中心測繪資訊課</gco:CharacterString>
+					</gmd:organisationName>
+					<gmd:contactInfo xlink:type="simple">
+						<gmd:CI_Contact>
+							<gmd:phone xlink:type="simple">
+								<gmd:CI_Telephone>
+									<gmd:voice>
+										<gco:CharacterString>+886-4-22522966</gco:CharacterString>
+									</gmd:voice>
+									<gmd:facsimile>
+										<gco:CharacterString>+886-4-22522902</gco:CharacterString>
+									</gmd:facsimile>
+								</gmd:CI_Telephone>
+							</gmd:phone>
+							<gmd:address xlink:type="simple">
+								<gmd:CI_Address>
+									<gmd:deliveryPoint>
+										<gco:CharacterString>黎明路二段４９７號四樓</gco:CharacterString>
+									</gmd:deliveryPoint>
+									<gmd:city>
+										<gco:CharacterString>臺中市南屯區</gco:CharacterString>
+									</gmd:city>
+									<gmd:postalCode>
+										<gco:CharacterString>40873</gco:CharacterString>
+									</gmd:postalCode>
+									<gmd:country>
+										<gco:CharacterString>中華民國</gco:CharacterString>
+									</gmd:country>
+									<gmd:electronicMailAddress>
+										<gco:CharacterString>mb@mail.nlsc.gov.tw</gco:CharacterString>
+									</gmd:electronicMailAddress>
+								</gmd:CI_Address>
+							</gmd:address>
+						</gmd:CI_Contact>
+					</gmd:contactInfo>
+					<gmd:role>
+						<gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#CI_RoleCode" codeListValue="distributor" codeSpace="ISOTC211/19115">distributor</gmd:CI_RoleCode>
+					</gmd:role>
+				</gmd:CI_ResponsibleParty>
+			</gmd:pointOfContact>
+			<gmd:pointOfContact xlink:type="simple">
+				<gmd:CI_ResponsibleParty>
+					<gmd:organisationName>
+						<gco:CharacterString>瑞竣科技股份有限公司</gco:CharacterString>
+					</gmd:organisationName>
+					<gmd:contactInfo xlink:type="simple">
+						<gmd:CI_Contact>
+							<gmd:phone xlink:type="simple">
+								<gmd:CI_Telephone>
+									<gmd:voice>
+										<gco:CharacterString>+886-2-82280790#512</gco:CharacterString>
+									</gmd:voice>
+									<gmd:facsimile>
+										<gco:CharacterString>+886-2-82280779</gco:CharacterString>
+									</gmd:facsimile>
+								</gmd:CI_Telephone>
+							</gmd:phone>
+							<gmd:address xlink:type="simple">
+								<gmd:CI_Address>
+									<gmd:deliveryPoint>
+										<gco:CharacterString>建一路１８６號十一樓之４</gco:CharacterString>
+									</gmd:deliveryPoint>
+									<gmd:city>
+										<gco:CharacterString>新北市中和區</gco:CharacterString>
+									</gmd:city>
+									<gmd:postalCode>
+										<gco:CharacterString>23553</gco:CharacterString>
+									</gmd:postalCode>
+									<gmd:country>
+										<gco:CharacterString>中華民國</gco:CharacterString>
+									</gmd:country>
+									<gmd:electronicMailAddress>
+										<gco:CharacterString>rogerchen@richitech.com.tw</gco:CharacterString>
+									</gmd:electronicMailAddress>
+								</gmd:CI_Address>
+							</gmd:address>
+						</gmd:CI_Contact>
+					</gmd:contactInfo>
+					<gmd:role>
+						<gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</gmd:CI_RoleCode>
+					</gmd:role>
+				</gmd:CI_ResponsibleParty>
+			</gmd:pointOfContact>
+			<gmd:resourceMaintenance xlink:type="simple">
+				<gmd:MD_MaintenanceInformation>
+					<gmd:maintenanceAndUpdateFrequency>
+						<gmd:MD_MaintenanceFrequencyCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_MaintenanceFrequencyCode" codeListValue="asNeeded" codeSpace="ISOTC211/19115">asNeeded</gmd:MD_MaintenanceFrequencyCode>
+					</gmd:maintenanceAndUpdateFrequency>
+				</gmd:MD_MaintenanceInformation>
+			</gmd:resourceMaintenance>
+			<gmd:descriptiveKeywords xlink:type="simple">
+				<gmd:MD_Keywords>
+					<gmd:keyword>
+						<gco:CharacterString>行政區域界線</gco:CharacterString>
+					</gmd:keyword>
+					<gmd:keyword>
+						<gco:CharacterString>107年度臺南市行政區域界線維護作業採購案</gco:CharacterString>
+					</gmd:keyword>
+					<gmd:keyword>
+						<gco:CharacterString>行政區界</gco:CharacterString>
+					</gmd:keyword>
+					<gmd:keyword>
+						<gco:CharacterString>行政界線</gco:CharacterString>
+					</gmd:keyword>
+					<gmd:keyword>
+						<gco:CharacterString>鄉鎮市區界</gco:CharacterString>
+					</gmd:keyword>
+				</gmd:MD_Keywords>
+			</gmd:descriptiveKeywords>
+			<gmd:resourceConstraints xlink:type="simple">
+				<gmd:MD_LegalConstraints>
+					<gmd:accessConstraints>
+						<gmd:MD_RestrictionCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_RestrictionCode" codeListValue="otherRestrictions" codeSpace="ISOTC211/19115">otherRestrictions</gmd:MD_RestrictionCode>
+					</gmd:accessConstraints>
+					<gmd:useConstraints>
+						<gmd:MD_RestrictionCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_RestrictionCode" codeListValue="otherRestrictions" codeSpace="ISOTC211/19115">otherRestrictions</gmd:MD_RestrictionCode>
+					</gmd:useConstraints>
+					<gmd:otherConstraints>
+						<gco:CharacterString>內政部國土測繪中心同仁自由瀏覽/自由下載;內政部（地政司）同仁自由瀏覽/自由下載;其他政府單位同仁自由瀏覽/自由下載;其他學術單位同仁自由瀏覽/自由下載;一般民眾自由瀏覽/自由下載;民間企業自由瀏覽/自由下載。</gco:CharacterString>
+					</gmd:otherConstraints>
+				</gmd:MD_LegalConstraints>
+			</gmd:resourceConstraints>
+			<gmd:resourceConstraints xlink:type="simple">
+				<gmd:MD_SecurityConstraints>
+					<gmd:classification>
+						<gmd:MD_ClassificationCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_ClassificationCode" codeListValue="unclassified" codeSpace="ISOTC211/19115">unclassified</gmd:MD_ClassificationCode>
+					</gmd:classification>
+				</gmd:MD_SecurityConstraints>
+			</gmd:resourceConstraints>
+			<gmd:spatialRepresentationType>
+				<gmd:MD_SpatialRepresentationTypeCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_SpatialRepresentationTypeCode" codeListValue="vector" codeSpace="ISOTC211/19115">vector</gmd:MD_SpatialRepresentationTypeCode>
+			</gmd:spatialRepresentationType>
+			<gmd:spatialResolution>
+				<gmd:MD_Resolution>
+					<gmd:equivalentScale xlink:type="simple">
+						<gmd:MD_RepresentativeFraction>
+							<gmd:denominator>
+								<gco:Integer>5000</gco:Integer>
+							</gmd:denominator>
+						</gmd:MD_RepresentativeFraction>
+					</gmd:equivalentScale>
+				</gmd:MD_Resolution>
+			</gmd:spatialResolution>
+			<gmd:language>
+				<gco:CharacterString>chi</gco:CharacterString>
+			</gmd:language>
+			<gmd:characterSet>
+				<gmd:MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</gmd:MD_CharacterSetCode>
+			</gmd:characterSet>
+			<gmd:topicCategory>
+				<gmd:MD_TopicCategoryCode>boundaries</gmd:MD_TopicCategoryCode>
+			</gmd:topicCategory>
+			<gmd:extent xlink:type="simple">
+				<gmd:EX_Extent>
+					<gmd:geographicElement xlink:type="simple">
+						<gmd:EX_GeographicBoundingBox>
+							<gmd:westBoundLongitude>
+								<gco:Decimal>118.12</gco:Decimal>
+							</gmd:westBoundLongitude>
+							<gmd:eastBoundLongitude>
+								<gco:Decimal>124.56</gco:Decimal>
+							</gmd:eastBoundLongitude>
+							<gmd:southBoundLatitude>
+								<gco:Decimal>21.90</gco:Decimal>
+							</gmd:southBoundLatitude>
+							<gmd:northBoundLatitude>
+								<gco:Decimal>26.39</gco:Decimal>
+							</gmd:northBoundLatitude>
+						</gmd:EX_GeographicBoundingBox>
+					</gmd:geographicElement>
+				</gmd:EX_Extent>
+			</gmd:extent>
+		</gmd:MD_DataIdentification>
+	</gmd:identificationInfo>
+	<gmd:distributionInfo xlink:type="simple">
+		<gmd:MD_Distribution>
+			<gmd:distributionFormat xlink:type="simple">
+				<gmd:MD_Format>
+					<gmd:name>
+						<gco:CharacterString>電子資料_SHP</gco:CharacterString>
+					</gmd:name>
+					<gmd:version>
+						<gco:CharacterString>SHP</gco:CharacterString>
+					</gmd:version>
+				</gmd:MD_Format>
+			</gmd:distributionFormat>
+			<gmd:distributionFormat xlink:type="simple">
+				<gmd:MD_Format>
+					<gmd:name>
+						<gco:CharacterString>電子資料_KML</gco:CharacterString>
+					</gmd:name>
+					<gmd:version>
+						<gco:CharacterString>KML 2.2</gco:CharacterString>
+					</gmd:version>
+				</gmd:MD_Format>
+			</gmd:distributionFormat>
+			<gmd:distributionFormat xlink:type="simple">
+				<gmd:MD_Format>
+					<gmd:name>
+						<gco:CharacterString>電子資料_GML</gco:CharacterString>
+					</gmd:name>
+					<gmd:version>
+						<gco:CharacterString>GML 3.1.1</gco:CharacterString>
+					</gmd:version>
+				</gmd:MD_Format>
+			</gmd:distributionFormat>
+			<gmd:distributor xlink:type="simple">
+				<gmd:MD_Distributor>
+					<gmd:distributorContact xlink:type="simple">
+						<gmd:CI_ResponsibleParty>
+							<gmd:organisationName>
+								<gco:CharacterString>內政部國土測繪中心測繪資訊課</gco:CharacterString>
+							</gmd:organisationName>
+							<gmd:contactInfo xlink:type="simple">
+								<gmd:CI_Contact>
+									<gmd:phone xlink:type="simple">
+										<gmd:CI_Telephone>
+											<gmd:voice>
+												<gco:CharacterString>+886-4-22522966</gco:CharacterString>
+											</gmd:voice>
+											<gmd:facsimile>
+												<gco:CharacterString>+886-4-22522902</gco:CharacterString>
+											</gmd:facsimile>
+										</gmd:CI_Telephone>
+									</gmd:phone>
+									<gmd:address xlink:type="simple">
+										<gmd:CI_Address>
+											<gmd:deliveryPoint>
+												<gco:CharacterString>黎明路二段４９７號四樓</gco:CharacterString>
+											</gmd:deliveryPoint>
+											<gmd:city>
+												<gco:CharacterString>臺中市南屯區</gco:CharacterString>
+											</gmd:city>
+											<gmd:postalCode>
+												<gco:CharacterString>408</gco:CharacterString>
+											</gmd:postalCode>
+											<gmd:country>
+												<gco:CharacterString>中華民國</gco:CharacterString>
+											</gmd:country>
+											<gmd:electronicMailAddress>
+												<gco:CharacterString>mb@mail.nlsc.gov.tw</gco:CharacterString>
+											</gmd:electronicMailAddress>
+										</gmd:CI_Address>
+									</gmd:address>
+									<gmd:onlineResource xlink:type="simple">
+										<gmd:CI_OnlineResource>
+											<gmd:linkage>
+												<gmd:URL>http://whgis.nlsc.gov.tw/</gmd:URL>
+											</gmd:linkage>
+										</gmd:CI_OnlineResource>
+									</gmd:onlineResource>
+								</gmd:CI_Contact>
+							</gmd:contactInfo>
+							<gmd:role>
+								<gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#CI_RoleCode" codeListValue="distributor" codeSpace="ISOTC211/19115">distributor</gmd:CI_RoleCode>
+							</gmd:role>
+						</gmd:CI_ResponsibleParty>
+					</gmd:distributorContact>
+					<gmd:distributionOrderProcess xlink:type="simple">
+						<gmd:MD_StandardOrderProcess>
+							<gmd:fees>
+								<gco:CharacterString>免費</gco:CharacterString>
+							</gmd:fees>
+							<gmd:orderingInstructions>
+								<gco:CharacterString>無</gco:CharacterString>
+							</gmd:orderingInstructions>
+						</gmd:MD_StandardOrderProcess>
+					</gmd:distributionOrderProcess>
+				</gmd:MD_Distributor>
+			</gmd:distributor>
+		</gmd:MD_Distribution>
+	</gmd:distributionInfo>
+	<gmd:dataQualityInfo xlink:type="simple">
+		<gmd:DQ_DataQuality>
+			<gmd:scope xlink:type="simple">
+				<gmd:DQ_Scope>
+					<gmd:level>
+						<gmd:MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</gmd:MD_ScopeCode>
+					</gmd:level>
+				</gmd:DQ_Scope>
+			</gmd:scope>
+			<gmd:report xlink:type="simple">
+				<gmd:DQ_CompletenessCommission>
+					<gmd:nameOfMeasure>
+						<gco:CharacterString>幾何檢查及位相檢查</gco:CharacterString>
+					</gmd:nameOfMeasure>
+					<gmd:measureDescription>
+						<gco:CharacterString>幾何檢查及位相檢查，應全數合格。幾何檢查：不得有節點重覆、多餘節點及自我相交等情形。位相檢查：不得有間隙(Gap)與重疊(Overlap)等情形。</gco:CharacterString>
+					</gmd:measureDescription>
+					<gmd:result xlink:type="simple">
+						<gmd:DQ_ConformanceResult>
+							<gmd:specification xlink:type="simple">
+								<gmd:CI_Citation>
+									<gmd:title>
+										<gco:CharacterString>幾何檢查及位相檢查</gco:CharacterString>
+									</gmd:title>
+									<gmd:date xlink:type="simple">
+										<gmd:CI_Date>
+											<gmd:date>
+												<gco:Date>2019-10-07</gco:Date>
+											</gmd:date>
+											<gmd:dateType>
+												<gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</gmd:CI_DateTypeCode>
+											</gmd:dateType>
+										</gmd:CI_Date>
+									</gmd:date>
+								</gmd:CI_Citation>
+							</gmd:specification>
+							<gmd:explanation>
+								<gco:CharacterString>幾何檢查及位相檢查，全數合格。</gco:CharacterString>
+							</gmd:explanation>
+							<gmd:pass>
+								<gco:Boolean>true</gco:Boolean>
+							</gmd:pass>
+						</gmd:DQ_ConformanceResult>
+					</gmd:result>
+				</gmd:DQ_CompletenessCommission>
+			</gmd:report>
+			<gmd:report xlink:type="simple">
+				<gmd:DQ_AbsoluteExternalPositionalAccuracy>
+					<gmd:nameOfMeasure>
+						<gco:CharacterString>地方政府函復行政區域界線疑義圖說成果</gco:CharacterString>
+					</gmd:nameOfMeasure>
+					<gmd:measureDescription>
+						<gco:CharacterString>須全數依照地方政府函復行政區域界線疑義圖說成果數化。</gco:CharacterString>
+					</gmd:measureDescription>
+					<gmd:result xlink:type="simple">
+						<gmd:DQ_ConformanceResult>
+							<gmd:specification xlink:type="simple">
+								<gmd:CI_Citation>
+									<gmd:title>
+										<gco:CharacterString>地方政府函復行政區域界線疑義圖說成果</gco:CharacterString>
+									</gmd:title>
+									<gmd:date xlink:type="simple">
+										<gmd:CI_Date>
+											<gmd:date>
+												<gco:Date>2019-10-07</gco:Date>
+											</gmd:date>
+											<gmd:dateType>
+												<gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</gmd:CI_DateTypeCode>
+											</gmd:dateType>
+										</gmd:CI_Date>
+									</gmd:date>
+								</gmd:CI_Citation>
+							</gmd:specification>
+							<gmd:explanation>
+								<gco:CharacterString>依照地方政府函復行政區域界線疑義圖說成果數化完成。</gco:CharacterString>
+							</gmd:explanation>
+							<gmd:pass>
+								<gco:Boolean>true</gco:Boolean>
+							</gmd:pass>
+						</gmd:DQ_ConformanceResult>
+					</gmd:result>
+				</gmd:DQ_AbsoluteExternalPositionalAccuracy>
+			</gmd:report>
+			<gmd:lineage xlink:type="simple">
+				<gmd:LI_Lineage>
+					<gmd:statement>
+						<gco:CharacterString>1.有關行政區界清查不一致處，經地方政府確認後，據以辦理行政區界之更新作業。2.每月至行政院主計總處網站查詢行政區域及村里代碼異動資訊，據以更新行政區界屬性資料。3.辦理內政部交辦之行政區界異動資料維護更新。</gco:CharacterString>
+					</gmd:statement>
+				</gmd:LI_Lineage>
+			</gmd:lineage>
+		</gmd:DQ_DataQuality>
+	</gmd:dataQualityInfo>
+	<Esri><CreaDate>20180913</CreaDate><CreaTime>10543600</CreaTime><SyncOnce>TRUE</SyncOnce><DataProperties><itemProps><itemLocation><linkage Sync="TRUE">file://\\NATASHA-PC\D$\Natasha\CPJ18009_107年行政區域圖編製案\_界線維護\_界線成果\MDB\1070914_更新成果\3.鄉(鎮、市、區)界線檔(內政部版,shp檔)\TW-07-301000100G-614001</linkage><protocol Sync="TRUE">Local Area Network</protocol></itemLocation></itemProps><copyHistory><copy source="D:\Natasha\CPJ18009_107年行政區域圖編製案\_界線維護\_界線成果\MDB\1070720_更新成果\3.鄉(鎮、市、區)界線檔(內政部版,shp檔)\TW-07-301000100G-614001" dest="\\NATASHA-PC\D$\Natasha\CPJ18009_107年行政區域圖編製案\_界線維護\_界線成果\MDB\1070914_更新成果\3.鄉(鎮、市、區)界線檔(內政部版,shp檔)\TW-07-301000100G-614001" date="20180913" time="10543600"></copy></copyHistory></DataProperties></Esri></gmd:MD_Metadata>
